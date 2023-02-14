@@ -1,0 +1,7 @@
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.AssemblyReference.cache
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.SuggestedBindingRedirects.cache
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\zWork\C#\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
